@@ -1,2 +1,0 @@
-# proyecto-bdd
-proyecto-bdd
